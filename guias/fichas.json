@@ -1,0 +1,518 @@
+{
+  "_nota": "Fichas redactadas por el equipo a partir de estrategias de aprendizaje activo de uso común. Revísenlas y amplíenlas con las guías del ministerio o de ProFuturo. Cada ficha: areas (matematicas, lenguaje, ciencias, sociales o todas), sirve_para (situaciones del grupo), necesita (recursos sin los que no funciona; vacío si no necesita nada), minutos (lo mínimo para que funcione con un grupo real, contando organizarse y cerrar) y corta (opcional: cómo hacerla en una clase de 15 minutos o menos).",
+  "fichas": [
+    {
+      "id": "piensa-pareja-comparte",
+      "nombre": "Piensa, conversa en pareja y comparte",
+      "areas": [
+        "todas"
+      ],
+      "sirve_para": [
+        "participan siempre los mismos",
+        "timidez",
+        "comprension",
+        "tema nuevo",
+        "repaso"
+      ],
+      "necesita": [],
+      "como": "Lanza una pregunta. Cada estudiante piensa en silencio 30 segundos, la conversa con su compañero de al lado y luego algunas parejas comparten con el grupo.",
+      "por_que": "Todos responden algo antes de que hablen los de siempre, y los tímidos ensayan en pareja.",
+      "minutos": 5
+    },
+    {
+      "id": "turnos-al-azar",
+      "nombre": "Turnos al azar con papelitos",
+      "areas": [
+        "todas"
+      ],
+      "sirve_para": [
+        "participan siempre los mismos",
+        "atencion",
+        "repaso"
+      ],
+      "necesita": [],
+      "como": "Escribe el número de lista de cada estudiante en papelitos y sácalos de un vaso o caja para elegir quién responde. Da tiempo para pensar antes de sacar el papel.",
+      "por_que": "Si cualquiera puede ser elegido, todos se mantienen atentos.",
+      "minutos": 5
+    },
+    {
+      "id": "relevos-pizarron",
+      "nombre": "Relevos en el pizarrón",
+      "areas": [
+        "todas"
+      ],
+      "sirve_para": [
+        "inquietos",
+        "energia",
+        "recreo",
+        "repaso",
+        "participacion"
+      ],
+      "necesita": [
+        "pizarr"
+      ],
+      "como": "Forma filas por equipos, sentados en su lugar. Por turnos, solo el primero de cada fila pasa al pizarrón a resolver o completar una parte y regresa a dar el relevo al siguiente.",
+      "por_que": "Canaliza la energía del grupo en movimiento ordenado y todos pasan al frente.",
+      "minutos": 10,
+      "corta": "En 15 minutos haz una sola ronda: un integrante por fila pasa al pizarrón a la vez y el resto anima desde su puesto."
+    },
+    {
+      "id": "predecir-observar-explicar",
+      "nombre": "Predecir, observar y explicar",
+      "areas": [
+        "ciencias"
+      ],
+      "sirve_para": [
+        "tema nuevo",
+        "curiosidad",
+        "atencion",
+        "experimento"
+      ],
+      "necesita": [],
+      "como": "Muestra una situación sencilla con objetos del aula (un vaso con agua, una planta, una sombra). Pide que anoten qué creen que pasará, observen y expliquen la diferencia entre lo que predijeron y lo que vieron.",
+      "por_que": "Hacer una predicción compromete a cada estudiante con el resultado.",
+      "minutos": 15,
+      "corta": "En 15 minutos, elige algo que cambie rápido (una sombra, una gota de agua en la mano, una hoja que cae). Cada uno dice qué cree que pasará, lo observan juntos una vez y dos estudiantes explican qué vieron."
+    },
+    {
+      "id": "concreto-dibujo-simbolo",
+      "nombre": "Del objeto al dibujo y al número",
+      "areas": [
+        "matematicas"
+      ],
+      "sirve_para": [
+        "no entienden",
+        "abstracto",
+        "tema nuevo",
+        "atrasados"
+      ],
+      "necesita": [],
+      "como": "Primero trabajan el concepto con objetos (hojas dobladas, tapitas, palitos), en otra parte de la clase lo dibujan y, cuando ya lo dominan, lo escriben con números. Cada paso es un momento distinto, a veces una clase distinta.",
+      "por_que": "Pasar por lo concreto antes del símbolo evita que se pierdan cuando aparecen los números.",
+      "minutos": 15,
+      "corta": "En 15 minutos haz un solo paso: de los objetos al dibujo. Con tapitas o palitos en la mesa, cada estudiante forma la cantidad y la dibuja en su cuaderno. Los números quedan para la clase siguiente."
+    },
+    {
+      "id": "rompecabezas-expertos",
+      "nombre": "Rompecabezas de expertos",
+      "areas": [
+        "lenguaje",
+        "ciencias",
+        "sociales"
+      ],
+      "sirve_para": [
+        "trabajo en equipo",
+        "lectura larga",
+        "participacion",
+        "tema nuevo"
+      ],
+      "necesita": [],
+      "como": "Divide el tema en 3 o 4 partes. Cada integrante del equipo estudia una parte con los de otros equipos que tienen la misma, y luego vuelve a su equipo a explicarla.",
+      "por_que": "Cada estudiante es responsable de enseñar algo, así que nadie se queda mirando.",
+      "minutos": 30
+    },
+    {
+      "id": "galeria",
+      "nombre": "Paseo por la galería",
+      "areas": [
+        "todas"
+      ],
+      "sirve_para": [
+        "inquietos",
+        "trabajo en equipo",
+        "cierre",
+        "compartir"
+      ],
+      "necesita": [
+        "hoja"
+      ],
+      "como": "Los equipos pegan su trabajo en la pared. El grupo recorre la galería y deja en cada trabajo una pregunta o un comentario escrito en un papelito.",
+      "por_que": "Mueve al grupo con propósito y todos ven el trabajo de los demás.",
+      "minutos": 20
+    },
+    {
+      "id": "ticket-de-salida",
+      "nombre": "Boleto de salida",
+      "areas": [
+        "todas"
+      ],
+      "sirve_para": [
+        "cierre",
+        "saber si entendieron",
+        "evaluacion",
+        "falta tiempo"
+      ],
+      "necesita": [
+        "hoja"
+      ],
+      "como": "En los últimos 3 minutos, cada estudiante responde en un papelito una pregunta corta sobre lo aprendido y te lo entrega al salir.",
+      "por_que": "En dos minutos sabes quién entendió y por dónde empezar la próxima clase.",
+      "minutos": 5
+    },
+    {
+      "id": "semaforo-manos",
+      "nombre": "Semáforo con las manos",
+      "areas": [
+        "todas"
+      ],
+      "sirve_para": [
+        "saber si entendieron",
+        "instrucciones",
+        "comprension",
+        "atrasados"
+      ],
+      "necesita": [],
+      "como": "Pregunta cómo van y que respondan con la mano: puño cerrado si no entienden, mano a medias si más o menos, mano abierta si entendieron. Ajusta en ese momento.",
+      "por_que": "Te dice al instante si puedes avanzar, sin materiales y sin exponer a nadie.",
+      "minutos": 5
+    },
+    {
+      "id": "instrucciones-tres-pasos",
+      "nombre": "Instrucciones en tres pasos",
+      "areas": [
+        "todas"
+      ],
+      "sirve_para": [
+        "no entendieron las instrucciones",
+        "instrucciones",
+        "desorden",
+        "trabajo en equipo"
+      ],
+      "necesita": [],
+      "como": "Da la consigna en máximo tres pasos cortos, escríbelos numerados en el pizarrón y pide a un estudiante que los repita con sus palabras antes de empezar.",
+      "por_que": "Cuando alguien las repite, descubres a tiempo qué no se entendió.",
+      "minutos": 5
+    },
+    {
+      "id": "pensar-en-voz-alta",
+      "nombre": "Resolver pensando en voz alta",
+      "areas": [
+        "matematicas",
+        "lenguaje"
+      ],
+      "sirve_para": [
+        "no entienden",
+        "tema nuevo",
+        "problemas"
+      ],
+      "necesita": [],
+      "como": "Resuelve un ejemplo en el pizarrón diciendo en voz alta lo que piensas en cada paso, incluidas tus dudas. El grupo te sigue desde sus puestos. Luego pasa al frente un solo estudiante a resolver otro igual, también en voz alta.",
+      "por_que": "Muestra el razonamiento, no solo el resultado.",
+      "minutos": 10,
+      "corta": "En 15 minutos resuelve tú un solo ejemplo en voz alta y que un estudiante resuelva otro igual en el pizarrón. El resto lo sigue desde su puesto y dice si está de acuerdo."
+    },
+    {
+      "id": "lectura-eco",
+      "nombre": "Lectura en eco",
+      "areas": [
+        "lenguaje"
+      ],
+      "sirve_para": [
+        "lectura",
+        "fluidez",
+        "atrasados",
+        "participacion"
+      ],
+      "necesita": [],
+      "como": "Lee una oración con buena entonación y el grupo la repite como eco. Después lo hacen por filas o en parejas.",
+      "por_que": "Practican fluidez sin que nadie lea solo frente a todos.",
+      "minutos": 10
+    },
+    {
+      "id": "antes-durante-despues",
+      "nombre": "Antes, durante y después de leer",
+      "areas": [
+        "lenguaje"
+      ],
+      "sirve_para": [
+        "comprension lectora",
+        "atencion",
+        "cuento"
+      ],
+      "necesita": [],
+      "como": "Antes: predicen de qué trata a partir del título. Durante: haces una pausa para preguntar qué pasará. Después: comparan lo que predijeron con lo que pasó.",
+      "por_que": "Leer con una pregunta en mente mantiene la atención y mejora la comprensión.",
+      "minutos": 15,
+      "corta": "En 15 minutos usa un texto muy corto: predicen por el título, lees en voz alta con una sola pausa para preguntar qué pasará y al final comparan con lo que dijeron."
+    },
+    {
+      "id": "dramatizacion",
+      "nombre": "Dramatización breve",
+      "areas": [
+        "lenguaje",
+        "sociales"
+      ],
+      "sirve_para": [
+        "inquietos",
+        "energia",
+        "personajes",
+        "historia",
+        "participacion"
+      ],
+      "necesita": [],
+      "como": "En equipos, preparan en 5 minutos una escena de un minuto sobre un momento del tema y la presentan. El resto adivina o comenta qué parte representaron.",
+      "por_que": "Convierte la energía del grupo en comprensión del tema.",
+      "minutos": 20
+    },
+    {
+      "id": "problema-del-entorno",
+      "nombre": "Problema con datos de la comunidad",
+      "areas": [
+        "matematicas"
+      ],
+      "sirve_para": [
+        "motivacion",
+        "problemas",
+        "aplicacion",
+        "repaso"
+      ],
+      "necesita": [],
+      "como": "Plantea un problema con precios o cantidades de la tienda, el mercado o la cosecha de la comunidad. Los estudiantes lo resuelven en parejas y explican cómo lo hicieron.",
+      "por_que": "Las cuentas con cosas que conocen tienen sentido para ellos.",
+      "minutos": 15,
+      "corta": "En 15 minutos plantea un solo problema corto de la tienda o del mercado. Lo resuelven en parejas desde sus puestos y dos parejas explican cómo lo hicieron."
+    },
+    {
+      "id": "estaciones",
+      "nombre": "Estaciones rotativas",
+      "areas": [
+        "todas"
+      ],
+      "sirve_para": [
+        "varios niveles",
+        "multigrado",
+        "inquietos",
+        "repaso",
+        "atrasados"
+      ],
+      "necesita": [],
+      "como": "Arma 3 o 4 estaciones con una tarea corta cada una. Los equipos rotan cada pocos minutos. Tú te quedas en la estación de quienes necesitan más apoyo.",
+      "por_que": "Permite atender a quienes van atrasados mientras los demás trabajan solos.",
+      "minutos": 30
+    },
+    {
+      "id": "mapa-colectivo",
+      "nombre": "Mapa de ideas en el pizarrón",
+      "areas": [
+        "ciencias",
+        "sociales",
+        "lenguaje"
+      ],
+      "sirve_para": [
+        "cierre",
+        "repaso",
+        "relaciones",
+        "tema nuevo"
+      ],
+      "necesita": [
+        "pizarr"
+      ],
+      "como": "Escribe el tema al centro del pizarrón. Los estudiantes proponen ideas y entre todos deciden dónde van y cómo se conectan con flechas.",
+      "por_que": "Hace visible lo que el grupo ya sabe y cómo se relaciona.",
+      "minutos": 15,
+      "corta": "En 15 minutos, tú escribes en el pizarrón las ideas que dicen los estudiantes desde su puesto y al final unen dos o tres con flechas entre todos."
+    },
+    {
+      "id": "escritura-rapida",
+      "nombre": "Un minuto para escribir",
+      "areas": [
+        "todas"
+      ],
+      "sirve_para": [
+        "inicio",
+        "atencion",
+        "inquietos",
+        "saber que saben"
+      ],
+      "necesita": [
+        "hoja"
+      ],
+      "como": "Al empezar, pide que escriban en un minuto todo lo que saben o se preguntan del tema. Lee algunas respuestas en voz alta.",
+      "por_que": "Calma al grupo al inicio y te muestra lo que ya saben.",
+      "minutos": 5
+    },
+    {
+      "id": "parejas-con-roles",
+      "nombre": "Parejas con roles: uno explica, otro revisa",
+      "areas": [
+        "matematicas",
+        "todas"
+      ],
+      "sirve_para": [
+        "se copian",
+        "trabajo autonomo",
+        "ejercicios",
+        "repaso"
+      ],
+      "necesita": [],
+      "como": "En parejas, uno resuelve un ejercicio explicando en voz alta y el otro revisa. En el siguiente ejercicio cambian de rol.",
+      "por_que": "Copiar deja de servir porque cada uno tiene que explicar su turno.",
+      "minutos": 10
+    },
+    {
+      "id": "pausa-activa",
+      "nombre": "Pausa activa de un minuto",
+      "areas": [
+        "todas"
+      ],
+      "sirve_para": [
+        "inquietos",
+        "distraidos",
+        "cansados",
+        "recreo",
+        "atencion"
+      ],
+      "necesita": [],
+      "como": "Cuando notes que se distraen, haz un minuto de movimiento ligado al tema: aplaudir sílabas, saltar los números pares, estirarse imitando el ciclo del agua.",
+      "por_que": "Un minuto de movimiento recupera varios de atención.",
+      "minutos": 5
+    },
+    {
+      "id": "senal-de-silencio",
+      "nombre": "Señal de silencio acordada",
+      "areas": [
+        "todas"
+      ],
+      "sirve_para": [
+        "ruido",
+        "desorden",
+        "inquietos",
+        "atencion",
+        "falta tiempo"
+      ],
+      "necesita": [],
+      "como": "Acuerda con el grupo una señal (mano levantada, una palmada con ritmo) que todos repiten hasta que haya silencio. Practícala dos veces al inicio de la clase.",
+      "por_que": "Ahorras minutos de pedir silencio y no tienes que alzar la voz.",
+      "minutos": 5
+    },
+    {
+      "id": "explorar-el-patio",
+      "nombre": "Observar y medir en el patio",
+      "areas": [
+        "ciencias",
+        "matematicas"
+      ],
+      "sirve_para": [
+        "inquietos",
+        "seres vivos",
+        "medicion",
+        "motivacion"
+      ],
+      "necesita": [
+        "patio"
+      ],
+      "como": "Salen al patio con una tarea concreta: contar seres vivos, medir con pasos, observar sombras. Anotan en una hoja y al volver comparan resultados.",
+      "por_que": "El patio es un laboratorio que ya tiene la escuela.",
+      "minutos": 20
+    },
+    {
+      "id": "preguntas-por-niveles",
+      "nombre": "Preguntas por niveles",
+      "areas": [
+        "todas"
+      ],
+      "sirve_para": [
+        "multigrado",
+        "varios niveles",
+        "atrasados",
+        "avanzados"
+      ],
+      "necesita": [],
+      "como": "Prepara tres preguntas del mismo tema: una para recordar, una para aplicar y una para crear. Cada estudiante empieza por la que puede y avanza a la siguiente.",
+      "por_que": "Todo el grupo trabaja el mismo tema, cada quien a su nivel.",
+      "minutos": 15,
+      "corta": "En 15 minutos usa solo dos preguntas: una para recordar y otra para aplicar."
+    },
+    {
+      "id": "tutoria-entre-pares",
+      "nombre": "Tutoría entre compañeros",
+      "areas": [
+        "todas"
+      ],
+      "sirve_para": [
+        "atrasados",
+        "varios niveles",
+        "no entienden",
+        "multigrado"
+      ],
+      "necesita": [],
+      "como": "Junta a quien ya entendió con quien necesita apoyo. El tutor explica sin dar la respuesta, con una pregunta que guíe.",
+      "por_que": "Explicar consolida lo aprendido, y escucharlo de un compañero ayuda a entender.",
+      "minutos": 15,
+      "corta": "En 15 minutos, forma parejas con su compañero de al lado y que trabajen un solo ejercicio: quien ya entendió guía con preguntas, sin dar la respuesta."
+    },
+    {
+      "id": "error-como-pista",
+      "nombre": "El error como pista",
+      "areas": [
+        "matematicas",
+        "lenguaje"
+      ],
+      "sirve_para": [
+        "errores frecuentes",
+        "no entienden",
+        "repaso"
+      ],
+      "necesita": [],
+      "como": "Escribe en el pizarrón un ejercicio resuelto con un error común, sin decir dónde está. En parejas lo encuentran y explican cómo corregirlo.",
+      "por_que": "Analizar un error ajeno quita el miedo a equivocarse.",
+      "minutos": 10
+    },
+    {
+      "id": "cuento-con-dibujos",
+      "nombre": "Historia a partir de tres dibujos",
+      "areas": [
+        "lenguaje"
+      ],
+      "sirve_para": [
+        "escritura",
+        "creatividad",
+        "motivacion"
+      ],
+      "necesita": [],
+      "como": "Dibuja tres cosas sencillas en el pizarrón (un río, una llave, un perro). En parejas escriben una historia corta que use las tres y algunas la leen.",
+      "por_que": "Las imágenes dan un punto de partida a quien no sabe por dónde empezar.",
+      "minutos": 20
+    },
+    {
+      "id": "dos-posturas",
+      "nombre": "Dos posturas en el pizarrón",
+      "areas": [
+        "sociales",
+        "ciencias",
+        "lenguaje"
+      ],
+      "sirve_para": [
+        "debate",
+        "argumentar",
+        "participacion",
+        "inquietos"
+      ],
+      "necesita": [],
+      "como": "Plantea una pregunta con dos respuestas posibles. Divide el pizarrón en dos columnas y el grupo da razones para cada lado antes de votar.",
+      "por_que": "Practican dar razones y escuchar al otro.",
+      "minutos": 15,
+      "corta": "En 15 minutos, una sola pregunta: dos o tres estudiantes dan una razón para cada lado desde su puesto y luego votan levantando la mano."
+    },
+    {
+      "id": "linea-de-tiempo",
+      "nombre": "Línea de tiempo con el cuerpo",
+      "areas": [
+        "sociales"
+      ],
+      "sirve_para": [
+        "historia",
+        "orden",
+        "inquietos",
+        "fechas"
+      ],
+      "necesita": [
+        "hoja"
+      ],
+      "como": "Reparte hojas con hechos o fechas. Los estudiantes se ordenan de pie frente al grupo según el orden en que ocurrieron y explican su lugar.",
+      "por_que": "Ver el orden con el cuerpo ayuda a recordarlo.",
+      "minutos": 15,
+      "corta": "En 15 minutos usa solo 5 hechos: 5 estudiantes pasan al frente con su hoja y el grupo, desde sus puestos, les dice cómo ordenarse."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Datos de la escuela: nunca al repositorio
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+instalador/

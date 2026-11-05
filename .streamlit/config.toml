@@ -1,0 +1,64 @@
+# Configuración de AulaCoach para una computadora escolar modesta y sin internet.
+
+[server]
+headless = false             # abre el navegador en la PC de la escuela y no busca IP en internet
+showEmailPrompt = false
+address = "0.0.0.0"          # los celulares entran por el Wi-Fi de la escuela
+port = 8501
+fileWatcherType = "none"     # no vigilar archivos: ahorra CPU
+runOnSave = false
+maxUploadSize = 1            # la app no recibe archivos
+enableXsrfProtection = true
+enableStaticServing = true   # sirve las fuentes de static/fuentes (en la propia PC, sin internet)
+
+[browser]
+gatherUsageStats = false     # no intentar enviar estadísticas a internet
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = "none"    # los errores técnicos van a la consola, no a la pantalla del docente
+showSidebarNavigation = false
+
+[runner]
+magicEnabled = false
+
+[logger]
+level = "warning"
+
+# --- Identidad: papel de cuaderno, tinta de lapicero, pizarrón y tiza ---
+[theme]
+base = "light"
+primaryColor = "#1F2E57"            # tinta de lapicero
+backgroundColor = "#FBFCF9"         # papel de cuaderno
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1F2E57"
+borderColor = "#B9C6DA"
+linkColor = "#1F2E57"
+redColor = "#C2362B"                # lapicero rojo
+font = "Andika, system-ui, sans-serif"
+headingFont = "Kalam, 'Segoe Print', cursive"
+headingFontWeights = 700
+baseFontSize = 17
+baseRadius = "8px"
+buttonRadius = "10px"
+showWidgetBorder = true
+
+[[theme.fontFaces]]
+family = "Andika"
+url = "app/static/fuentes/andika-latin-400-normal.woff2"
+weight = "400"
+
+[[theme.fontFaces]]
+family = "Andika"
+url = "app/static/fuentes/andika-latin-700-normal.woff2"
+weight = "500 700"
+
+[[theme.fontFaces]]
+family = "Kalam"
+url = "app/static/fuentes/kalam-latin-400-normal.woff2"
+weight = "400"
+
+[[theme.fontFaces]]
+family = "Kalam"
+url = "app/static/fuentes/kalam-latin-700-normal.woff2"
+weight = "700"
